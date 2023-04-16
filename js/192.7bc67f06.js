@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_vue_app"]=self["webpackChunkmy_vue_app"]||[]).push([[192],{5192:function(u,e,n){n.r(e),n.d(e,{default:function(){return c}});var t=function(){var u=this,e=u._self._c;return e("div",[u._v(" 我是pagetwo ")])},l=[],p={},r=p,a=n(1001),s=(0,a.Z)(r,t,l,!1,null,null,null),c=s.exports}}]);
+//# sourceMappingURL=192.7bc67f06.js.map

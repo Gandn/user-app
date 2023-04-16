@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_vue_app"]=self["webpackChunkmy_vue_app"]||[]).push([[586],{9586:function(u,n,e){e.r(n),e.d(n,{default:function(){return c}});var l=function(){var u=this,n=u._self._c;return n("div",[u._v(" 我是Mall ")])},t=[],r={},a=r,p=e(1001),s=(0,p.Z)(a,l,t,!1,null,null,null),c=s.exports}}]);
+//# sourceMappingURL=586.0ed24224.js.map
